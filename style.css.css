@@ -1,0 +1,21 @@
+#h{
+    text-align: center;
+    text-decoration: underline;
+}
+#hp{
+
+}
+#butt{
+    text-align: center;
+}
+#inst{
+    position: relative;
+    top: -60px;
+
+}
+#ita{
+    font-style: italic;
+}
+.coll{
+    color: red;
+}
